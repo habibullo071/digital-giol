@@ -1,0 +1,134 @@
+  @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500;600;700&display=swap');
+
+  .nav {
+      position: relative;
+      width: 100%;
+      height: 615px;
+      background-image: url(../../img/img2.png);
+      border-radius: 0px;
+      background-size: cover;
+  }
+
+  .navbar {
+      width: 80%;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding: 30px 0;
+      color: white;
+      font-family: 'Comfortaa', cursive;
+      list-style-type: none;
+  }
+
+  .left ul {
+      display: flex;
+  }
+
+  .left h2 {
+      margin-top: 15px;
+      font-family: Comfortaa;
+      font-size: 31px;
+      font-weight: 700;
+      line-height: 35px;
+      letter-spacing: 0em;
+      text-align: left;
+  }
+
+  .right {
+      margin-top: 15px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+
+  .right ul {
+      display: flex;
+      height: 36px;
+  }
+
+  .right li {
+      margin: 0 15px;
+      margin-top: 8px;
+  }
+
+  .right select {
+      margin-right: 20px;
+      background-color: transparent;
+      height: 36px;
+      color: white;
+      border: none;
+  }
+
+  .right option {
+      color: black;
+  }
+
+  .right button {
+      color: white;
+      background-color: transparent;
+      height: 36px;
+      width: 151px;
+      left: 1569px;
+      top: 50px;
+      border-radius: 2px;
+      padding: 8px 14px 8px 14px;
+      background: #B131DD;
+      border: none;
+  }
+
+  .hero {
+      height: 730px;
+      display: flex;
+      margin: 0 auto;
+      width: 80%;
+  }
+
+  .hero__left {
+      display: flex;
+      flex-direction: column;
+      width: 900px;
+      background-color: #B031DD;
+  }
+
+  .hero__centr {
+      margin: auto 40px;
+      font-family: Comfortaa;
+      font-size: 28px;
+      font-weight: 400;
+      line-height: 31px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: white;
+  }
+
+  .hero__centr h1 {
+      margin-bottom: 40px;
+      color: white;
+      font-family: Comfortaa;
+      font-size: 78px;
+      font-weight: 600;
+      line-height: 87px;
+      letter-spacing: 0em;
+      text-align: left;
+  }
+
+  .hero__centr button {
+      margin-top: 40px;
+      height: 36px;
+      width: 151px;
+      left: 270px;
+      top: 648px;
+      border-radius: 2px;
+      padding: 10px 26px 10px 26px;
+      border: 1px solid white;
+      background-color: transparent;
+      color: white;
+  }
+
+  .hero__right {
+      background-color: white;
+      width: 78%;
+      background-repeat: no-repeat;
+      background-image: url(../../img/img3.png);
+  }

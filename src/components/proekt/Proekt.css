@@ -1,0 +1,44 @@
+.Proekt {
+    width: 80%;
+    margin:400px auto;
+    text-align: center;
+    font-family: Comfortaa;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+}
+
+.Proekt ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.il {
+    font-family: Comfortaa;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: right;
+    display: flex;
+    margin-top: 30px;
+    background-color: white;
+}
+.li{
+    font-family: Comfortaa;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    display: flex;
+    margin-top: 100px;
+    background-color: white;
+    text-align: left;
+}
+.li p{
+    margin: auto;
+}
+.Proekt p{
+    padding: 20px;
+}
