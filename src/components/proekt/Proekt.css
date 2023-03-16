@@ -1,6 +1,7 @@
 .Proekt {
     width: 80%;
-    margin:400px auto;
+    margin:0 auto;
+    margin-top: 400px;
     text-align: center;
     font-family: Comfortaa;
     font-size: 42px;
@@ -13,7 +14,9 @@
     display: flex;
     flex-wrap: wrap;
 }
-
+.Proekt ul img{
+    margin-top: 10px;
+}
 .il {
     font-family: Comfortaa;
     font-size: 28px;

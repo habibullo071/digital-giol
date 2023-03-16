@@ -3,7 +3,7 @@ import './Proekt.css'
 import img4 from '../../img/img4.png'
 function Proekt() {
     return (
-        <div className='Proekt'>
+        <div className='Proekt' id='proekt'>
             <h3>О проекте</h3>
             <ul>
                 <li className='il'>

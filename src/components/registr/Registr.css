@@ -1,0 +1,44 @@
+.Registr {
+    margin: 80px auto;
+}
+
+.Registr h1 {
+    font-family: Comfortaa;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.input input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #BE00FF;
+    color: #BE00FF;
+    outline: none;
+    margin: 35px;
+    height: 50px;
+    width: 364px;
+    border-radius: nullpx;
+}
+
+.input {
+    text-align: center;
+    margin: 0 auto;
+    width: 46%;
+}
+
+.input button {
+    margin-top: 50px;
+    border: none;
+    background: #B131DD;
+    color: white;
+    font-family: Comfortaa;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 22px;
+    height: 49px;
+    width: 198.6063995361328px;
+    border-radius: 2.4372270107269287px;
+}

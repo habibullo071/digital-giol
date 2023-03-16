@@ -1,7 +1,6 @@
 import React from 'react'
 import './navbar.css'
 import img1 from '../../img/img1.png'
-import img3 from '../../img/img3.png'
 function Nav() {
   return (
     <div className="nav">
@@ -16,11 +15,11 @@ function Nav() {
         </div>
         <div className="right">
           <ul>
-            <li>О Проекте</li>
-            <li>О Проекте</li>
-            <li>О Проекте</li>
-            <li>О Проекте</li>
-            <li>О Проекте</li>
+            <li><a href="#proekt">О Проекте </a></li>
+            <li><a href="#naprav">Направления</a></li>
+            <li><a href="#zadachi">Задачи</a></li>
+            <li><a href="#result">Результаты</a></li>
+            <li><a href="#map">Контакты</a></li>
           </ul>
           <select>
             <option value="РУ">РУ</option>

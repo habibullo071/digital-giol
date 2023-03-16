@@ -1,0 +1,78 @@
+.Naprav {
+    margin-top: 100px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../../img/img5.png);
+}
+
+.naprav {
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    width: 80%;
+    border: 1px solid transparent;
+}
+
+.naprav h2 {
+    margin: 35px auto;
+    font-family: Comfortaa;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.naprav p {
+    font-family: Comfortaa;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+}
+
+.naprav ul {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.korinish {
+    margin: 10px auto;
+    border: 1px solid transparent;
+    background: #BD00FF66;
+    height: 240px;
+    width: 198px;
+    border-radius: 5px;
+}
+
+.korinish p {
+    font-family: Comfortaa;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.hover {
+    width: 220px;
+    margin-bottom: 50px;
+}
+
+.korinish:hover {
+    width: 220px;
+    transition: 0.5s;
+}
+
+.naprav button {
+    height: 36px;
+    width: 151px;
+    border-radius: 2px;
+    padding: 8px 14px 8px 14px;
+    background: #B131DD;
+    color: white;
+    border: none;
+    margin: 30px auto;
+}

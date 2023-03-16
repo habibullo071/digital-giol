@@ -1,0 +1,46 @@
+.Map {
+    margin: 100px auto;
+    text-align: left;
+    width: 70%;
+    border: 1px solid #000;
+}
+
+.Map__left {
+    height: 537px;
+    background-image: url(../../img/img10.png);
+    width: 50%;
+    border: 1px solid transparent;
+}
+
+.left__center {
+    margin: 100px auto;
+    width: 70%;
+    color: white;
+}
+
+.left__center li img {
+    object-fit: contain;
+}
+
+.left__center li {
+    display: flex;
+    margin: 15px auto;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.map__right {
+    margin-left: 52%;
+    margin-top: -50px;
+    width: 50%;
+    border: 1px solid #000;
+}
+
+.map__right iframe {
+    width: 100%;
+}
