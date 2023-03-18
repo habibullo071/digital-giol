@@ -85,6 +85,9 @@
   }
 
   .hero__left {
+      background-image: url(../../img/img13.png);
+      background-size: contain;
+      background-repeat: no-repeat;
       display: flex;
       flex-direction: column;
       width: 900px;
@@ -115,10 +118,6 @@
 
   .hero__centr button {
       margin-top: 40px;
-      height: 36px;
-      width: 151px;
-      left: 270px;
-      top: 648px;
       border-radius: 2px;
       padding: 10px 26px 10px 26px;
       border: 1px solid white;

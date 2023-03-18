@@ -1,3 +1,18 @@
+.pro{
+    width: 100%;
+}
+.bag{
+    background-image: url(../../img/img14.png);
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 681.4273681640625px;
+    width: 308px;
+    left: 1604px;
+    top: 652px;
+    border-radius: 0px;
+    
+}
 .Proekt {
     width: 80%;
     margin:0 auto;
